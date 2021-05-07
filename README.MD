@@ -28,20 +28,19 @@ A szó szerinti jegyzőkönyvbe az ülésen elhangzott minden nyilatkozatot, fel
 ### Közlekedéssel kapcsolatos nyílt adatok
 [BKK GTFS](https://bkk.hu/apps/gtfs/) - A GTFS (General Transit Feed Specification) a Google által kifejlesztett, teljesen nyilvános és ingyenes formátum, amely a földrajzi pozíciókat is felhasználó alkalmazásokba beépíthetővé teszi a közösségi közlekedés menetrendi adatbázisait.  
 
-<hr>
-## International open datasets
-#TODO create categories
-[European data](https://data.europa.eu/en)   -  The official portal for European data
+## International open datasets   
+
+[European data](https://data.europa.eu/en)   -  The official portal for European data  
 [Open Data Watch](https://odin.opendatawatch.com/Report/countryProfileUpdated/HUN?year=2020)  -The Open Data Inventory (ODIN) is an evaluation of the coverage and openness of data provided on the websites maintained by national statistical offices (NSOs) and any official government website that is accessible from the NSO site. 
-[World Bank Open Data](https://data.worldbank.org/)  -This site is designed to make World Bank data easy to find, download, and use. All of the data found here can be used free of charge with minimal restrictions.
-[Data.Gov](https://www.data.gov/) - The US government portal to open data.
-[California Water Resources](http://www.water.ca.gov/data_home.cfm) - California's water resource data.
-[Data for Cool DS projects](http://101.datascience.community/2014/10/17/data-sources-for-cool-data-science-projects-part-1-guest-post/)  
-[Academic Torrents](http://academictorrents.com/) - Sharing Data is hard, torrents make it easier for academics.
-[Data Basin](http://databasin.org/) - Science based mapping and analytics platform.
-[Open Energy Data Initiative](http://en.openei.org/wiki/Main_Page) - Over 800 data sets covering energy issues.
-[UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/datasets.html) - Data for machine learning - lots of labeled data and description of the problem types.
-[London Data Store](http://data.london.gov.uk/) - Lots of datasets on London, UK
+[World Bank Open Data](https://data.worldbank.org/)  -This site is designed to make World Bank data easy to find, download, and use. All of the data found here can be used free of charge with minimal restrictions.  
+[Data.Gov](https://www.data.gov/) - The US government portal to open data.  
+[California Water Resources](http://www.water.ca.gov/data_home.cfm) - California's water resource data.  
+[Data for Cool DS projects](http://101.datascience.community/2014/10/17/data-sources-for-cool-data-science-projects-part-1-guest-post/)    
+[Academic Torrents](http://academictorrents.com/) - Sharing Data is hard, torrents make it easier for academics.  
+[Data Basin](http://databasin.org/) - Science based mapping and analytics platform.  
+[Open Energy Data Initiative](http://en.openei.org/wiki/Main_Page) - Over 800 data sets covering energy issues.  
+[UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/datasets.html) - Data for machine learning - lots of labeled data and description of the problem types.  
+[London Data Store](http://data.london.gov.uk/) - Lots of datasets on London, UK  
 
 ## About Open Data
 [Open Knowledge Foundation](https://okfn.org/about/) -Our mission - an open world, where all non-personal information is open, free for everyone to use, build on and share; and creators and innovators are fairly recognised and rewarded.
