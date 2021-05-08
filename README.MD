@@ -41,6 +41,7 @@ A szó szerinti jegyzőkönyvbe az ülésen elhangzott minden nyilatkozatot, fel
 ## International open datasets   
 
 [European data](https://data.europa.eu/en)   -  The official portal for European data  
+[The Open Data Barometer](https://opendatabarometer.org/?_year=2017&indicator=ODB) -A global measure of how governments are publishing and using open data for accountability, innovation and social impact.   
 [Open Data Watch](https://odin.opendatawatch.com/Report/countryProfileUpdated/HUN?year=2020)  -The Open Data Inventory (ODIN) is an evaluation of the coverage and openness of data provided on the websites maintained by national statistical offices (NSOs) and any official government website that is accessible from the NSO site. 
 [World Bank Open Data](https://data.worldbank.org/)  -This site is designed to make World Bank data easy to find, download, and use. All of the data found here can be used free of charge with minimal restrictions.  
 [Data.Gov](https://www.data.gov/) - The US government portal to open data.  
