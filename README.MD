@@ -1,5 +1,13 @@
 ## Magyar vonatkozású nyílt adatok
 
+## Nyílt Adat definíció  
+
+* <b>Elérhetőség és Hozzáférhetőség:</b> az adatoknak teljességükben kell elérhetőnek lenniük, nem drágábban mint azok reális reprodukciós költsége, internetes letöltésként publikálva.
+* <b>Újrafelhasználás  és  Továbbterjeszthetőség:</b> az  adatoknak  olyan  felhasználási  feltételekkel  kell rendelkeznie,  ami  megengedi  az  újrahasznosítást  és  a  továbbterjesztést,  beleértve  azok  más adathalmazokkal történő kombinálását.  
+* <b>Univerzális  részvétel:</b> az  adatoknak  mindenki  által  felhasználhatónak,  újrahasznosíthatónak  és továbbterjeszthetőnek  kell  lennie -egyetlen  felhasználási  területet,  személyt  vagy  csoportot  sem diszkriminálva.   
+forrás: http://www.w3c.hu/forditasok/Open-Data-Handbook/OpenDataHandbook_hu.pdf  
+
+
 ### Kormányzati nyílt adatok
 
 [Parlament Országgyűlési napló](https://www.parlament.hu/orszaggyulesi-naplo)  -Az Országgyűlés nyilvános ülésén elhangzottakról szó szerinti jegyzőkönyvet kell vezetni, amelynek elkészítéséről a házelnök gondoskodik. A jegyzőkönyv jegyzők által hitelesített példányát – a határozati házszabályban meghatározott mellékletekkel együtt – irattárban kell elhelyezni, az Országgyűlési Naplót az Országgyűlési Könyvtárban is.
@@ -16,14 +24,16 @@ A szó szerinti jegyzőkönyvbe az ülésen elhangzott minden nyilatkozatot, fel
 ### Statisztikai adatok  
 [Központi Statisztikai Hivatal](http://www.ksh.hu/)  
 [Hungarian ChickenPox cases (UCI)](https://archive.ics.uci.edu/ml/datasets/Hungarian+Chickenpox+Cases)   
+[Börtönstatisztikai szemle (pdf)](https://bv.gov.hu/hu/bortonstatisztikai-szemle)  
 
 ### Nyílt adattal foglalkozó magyar honlapok és írások
 [Átlátszó](https://atlatszo.hu/)  
 [Eötvös Károly Intézet](http://www.ekint.org/tevekenyseg/az-allam-atlathatosaga-informacioszabadsag)  
-[Opendata.hu](http://opendata.hu/)  - Az opendata.hu egy ingyenes és nyilvános magyar adatkatalógus. Az oldalt önkéntesek és civil szervezetek hozták létre azzal a céllal, hogy megteremtsék az első magyar nyílt adatokat, adatbázisokat gyűjtő weblapot. Az oldalra szabadon feltölthetőek, rendszerezhetőek szerzői jogvédelem alatt nem álló, nyilvános, illetve közérdekű adatok.
+[Opendata.hu](http://opendata.hu/)  - Az opendata.hu egy ingyenes és nyilvános magyar adatkatalógus. Az oldalt önkéntesek és civil szervezetek hozták létre azzal a céllal, hogy megteremtsék az első magyar nyílt adatokat, adatbázisokat gyűjtő weblapot. Az oldalra szabadon feltölthetőek, rendszerezhetőek szerzői jogvédelem alatt nem álló, nyilvános, illetve közérdekű adatok.  
 [Nyílt Adatok kézikönyv](http://www.w3c.hu/forditasok/Open-Data-Handbook/OpenDataHandbook_hu.pdf)  - Open Knowledge Foundation által kiadott kézikönyv. A nyílt adatok jogi, szociális és technikai aspektusainak ismertetésére szolgál.  Különösen azoknak készült, akik adatok nyílttá tevését tűzték célul. Szót ejt a nyílt adatok mit, miért és hogyanjáról–mit jelent a nyíltság, miért válasszuk a nyílt adatok útját, és hogyan tegyünk"nyílttá"adatokat.  
 [Nyílt és kapcsolt adatok](https://tudomany.idea.unideb.hu/hu/node/222)  - Rövid ismertető a kapcsolt adatokról  
-[NAIH Információszabadsággal kapcsolatos tájékoztatók, közlemények](https://www.naih.hu/dontesek-informacioszabadsag-tajekoztatok-kozlemenyek)  - Nemzeti Adatvédelmi és Információszabadság Hatóság
+[NAIH Információszabadsággal kapcsolatos tájékoztatók, közlemények](https://www.naih.hu/dontesek-informacioszabadsag-tajekoztatok-kozlemenyek)  - Nemzeti Adatvédelmi és Információszabadság Hatóság  
+[Magyary Zoltán E-közigazgatástudományi Egyesület](https://www.magyary.hu/category/digitalis-koz-igazgatas/)  
 
 ### Közlekedéssel kapcsolatos nyílt adatok
 [BKK GTFS](https://bkk.hu/apps/gtfs/) - A GTFS (General Transit Feed Specification) a Google által kifejlesztett, teljesen nyilvános és ingyenes formátum, amely a földrajzi pozíciókat is felhasználó alkalmazásokba beépíthetővé teszi a közösségi közlekedés menetrendi adatbázisait.  
@@ -46,3 +56,4 @@ A szó szerinti jegyzőkönyvbe az ülésen elhangzott minden nyilatkozatot, fel
 [Open Knowledge Foundation](https://okfn.org/about/) -Our mission - an open world, where all non-personal information is open, free for everyone to use, build on and share; and creators and innovators are fairly recognised and rewarded.
 [Wikipedia Open Data](https://en.wikipedia.org/wiki/Open_data)  
 [Budapest Open Access](https://en.wikipedia.org/wiki/Budapest_Open_Access_Initiative)  
+[Open Data Charter](https://opendatacharter.net/principles/)  The webpage lists the six ODC principles that were developed in 2015 by governments, civil society, and experts around the world to represent a globally-agreed set of aspirational norms for how to publish data. 
