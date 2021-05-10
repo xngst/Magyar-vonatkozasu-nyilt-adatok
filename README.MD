@@ -21,10 +21,23 @@ A szó szerinti jegyzőkönyvbe az ülésen elhangzott minden nyilatkozatot, fel
 [Közbeszerzési hatóság](https://www.kozbeszerzes.hu/)  
 [Közbeszerzéási értesítő](https://www.kozbeszerzes.hu/ertesito/)  
 
+### Bűnözési adatok  
+[Bűnügyi térkép](https://terkep.police.hu/portal/bunugyi) -Szabadon hozzáférhető interaktív térkép, naprakész adatokkal.
+A bűnügyi adatok - alapbeállítások mellett - az ún. Ponttérképen rajzolódnak ki. Ekkor az adatokat nagyobb halmazokba rendezi a rendszer: az egyes területekre jutó bűncselekmények összesített száma szerepel a kék körökbe foglaltan. Ezekre ráközelítve a nagy halmazok kisebb részhalmazokra válnak szét, és továbbra is összesített számokat mutatnak. Teljes nagyítás mellett - ami 100 méteres térképszelvényezést eredményez - az egyes bűncselekmények már nem halmazokban, hanem külön-külön, pontonként jelennek meg.  
+[Prevenciós bűnözés-statisztikai adattár](https://prestat.lechnerkozpont.hu/bunmegelozes/#/login)  -Csak ügyfélkapus bejelentkezés után használható. 
+ Az alkalmazás elsődleges célja a rendőri szervek bűnmegelőzéshez kapcsolódó feladatai tervezésének, összehangolásának és végrehajtásának támogatása térinformatikai és egyéb elemzési eszközök biztosításával. Az alkalmazás különböző területi szinteken, meghatározott időintervallumra vonatkozóan lehetővé teszi a társadalmi, gazdasági és bűncselekményi adatok térképi és grafikonos megjelenítését.
+Az elsődleges felhasználói csoport mellett az alkalmazás publikus adatokat tartalmazó moduljai a lakossági felhasználók számára is hasznos funkciókat nyújtanak.
+
 ### Statisztikai adatok  
 [Központi Statisztikai Hivatal](http://www.ksh.hu/)  
 [Hungarian ChickenPox cases (UCI)](https://archive.ics.uci.edu/ml/datasets/Hungarian+Chickenpox+Cases)   
 [Börtönstatisztikai szemle (pdf)](https://bv.gov.hu/hu/bortonstatisztikai-szemle)  
+
+### Adatigénylések
+TODO
+
+### Közadat Jogszabályi háttere
+TODO
 
 ### Nyílt adattal foglalkozó magyar honlapok és írások
 [Átlátszó](https://atlatszo.hu/)  
@@ -37,6 +50,11 @@ A szó szerinti jegyzőkönyvbe az ülésen elhangzott minden nyilatkozatot, fel
 
 ### Közlekedéssel kapcsolatos nyílt adatok
 [BKK GTFS](https://bkk.hu/apps/gtfs/) - A GTFS (General Transit Feed Specification) a Google által kifejlesztett, teljesen nyilvános és ingyenes formátum, amely a földrajzi pozíciókat is felhasználó alkalmazásokba beépíthetővé teszi a közösségi közlekedés menetrendi adatbázisait.  
+
+### Történeti adatbázisok
+[Adatbázisok Online](https://www.adatbazisokonline.hu/osszes-adatbazis) - Az AdatbázisokOnline a Magyar Nemzeti Levéltár által 2009-ben indított és azóta folyamatosan üzemeltetett szolgáltatása, amely a levéltári anyaghoz készült strukturált segédletekhez nyújt felhasználóbarát hozzáférést.  
+A portál kezdőlapján megjelenő egyszerű kereső lehetővé teszi az összes adatbázis tartalmában egy kattintással történő keresést. Az egyes adatbázisokban történő böngészés mellett a különböző tematikus gyűjtemények (Családtörténet, Helytörténet, Reformáció 500, Középkori Gyűjtemény, Pártiratok) csokorba szedve az egy témakörbe tartozó adatbázisokat, testre szabottan segítik a középkortól a 20. századig terjedő időszak kutatók munkáját. 
+
 
 ## International open datasets   
 
