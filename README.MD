@@ -57,5 +57,8 @@ A portál kezdőlapján megjelenő egyszerű kereső lehetővé teszi az összes
 ### Adatigénylések
 TODO
 
-### Közadat Jogszabályi háttere
-TODO
+### Kapcsolódó törvények
+[2011. évi CXII. törvényaz információs önrendelkezési jogról és azinformációszabadságról (Üvegzseb törvény)](https://pak.elte.hu/media/9e/4e/e36590c5dddfb763f133822df76d26822c31b93bea0d811bff8ba88aa100/2011.%20%C3%A9vi%20CXII.%20t%C3%B6rv%C3%A9ny%20az%20inform%C3%A1ci%C3%B3s%20%C3%B6nrendelkez%C3%A9si%20jogr%C3%B3l%20%C3%A9s%20az%20inform%C3%A1ci%C3%B3szabads%C3%A1gr%C3%B3l.pdf) -PDF Frissítve: 2019. március 21. 16:27Hatály: 2019.I.1.
+[2003. évi XXIV. törvény
+a közpénzek felhasználásával, a köztulajdon használatának nyilvánosságával, átláthatóbbá tételével és ellenőrzésének bővítésével összefüggő egyes törvények módosításáról](https://mkogy.jogtar.hu/jogszabaly?docid=a0300024.TV) -"Üvegzseb" törvény Időállapot: közlönyállapot (2003.IV.25.)  
+Kivonatolt összefoglaló a K Monitoron: https://k-monitor.hu/node/5774  
