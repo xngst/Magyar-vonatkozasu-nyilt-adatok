@@ -25,6 +25,7 @@ A szó szerinti jegyzőkönyvbe az ülésen elhangzott minden nyilatkozatot, fel
 ### Nyílt adattal foglalkozó magyar honlapok és írások
 
 [Átlátszó](https://atlatszo.hu/)  
+[K Monitor](https://k-monitor.hu/fooldal) - A K-Monitor Iroda 2007 óta küzd a közpénzek átlátható felhasználásáért és a korrupció visszaszorításáért. Civil szervezetünk olyan politikai, gazdasági és társadalmi környezetet megteremtéséért dolgozik, ahol az állampolgárok elutasítják, a hatóságok pedig hatékonyan feltárják és szankcionálják a korrupciót.  
 [Eötvös Károly Intézet](http://www.ekint.org/tevekenyseg/az-allam-atlathatosaga-informacioszabadsag)  
 [Magyary Zoltán E-közigazgatástudományi Egyesület](https://www.magyary.hu/category/digitalis-koz-igazgatas/)  
 [Opendata.hu](http://opendata.hu/)  - Az opendata.hu egy ingyenes és nyilvános magyar adatkatalógus. Az oldalt önkéntesek és civil szervezetek hozták létre azzal a céllal, hogy megteremtsék az első magyar nyílt adatokat, adatbázisokat gyűjtő weblapot. Az oldalra szabadon feltölthetőek, rendszerezhetőek szerzői jogvédelem alatt nem álló, nyilvános, illetve közérdekű adatok.  
