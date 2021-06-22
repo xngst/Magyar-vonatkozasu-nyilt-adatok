@@ -47,6 +47,7 @@ A bűnügyi adatok - alapbeállítások mellett - az ún. Ponttérképen rajzol�
 [Prevenciós bűnözés-statisztikai adattár](https://prestat.lechnerkozpont.hu/bunmegelozes/#/login)  -Csak ügyfélkapus bejelentkezés után használható. 
  Az alkalmazás elsődleges célja a rendőri szervek bűnmegelőzéshez kapcsolódó feladatai tervezésének, összehangolásának és végrehajtásának támogatása térinformatikai és egyéb elemzési eszközök biztosításával. Az alkalmazás különböző területi szinteken, meghatározott időintervallumra vonatkozóan lehetővé teszi a társadalmi, gazdasági és bűncselekményi adatok térképi és grafikonos megjelenítését.
 Az elsődleges felhasználói csoport mellett az alkalmazás publikus adatokat tartalmazó moduljai a lakossági felhasználók számára is hasznos funkciókat nyújtanak.
+[Magyar Ásványolaj Szövetség Üzemanyag statisztikák](http://petroleum.hu/dokumentumok/uzemanyag-statisztikak/)  -Adattáblázatok Jpg-ben(!)  
 
 ### Történeti adatbázisok
 [Budapest Főváros Levéltára](https://bparchiv.hu/adatbazisok/hu)  
