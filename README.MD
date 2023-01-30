@@ -21,10 +21,10 @@ A szó szerinti jegyzőkönyvbe az ülésen elhangzott minden nyilatkozatot, fel
 [Közbeszerzéási értesítő](https://www.kozbeszerzes.hu/ertesito/)  
 [Országos Területfejlesztési és területrendezési Információs rendszer](https://www.teir.hu/)  Számos funkció regisztrációhoz kötött.
 
-### Közlekedéssel kapcsolatos nyílt adatok
+### Közlekedés
 [BKK GTFS](https://bkk.hu/apps/gtfs/) - A GTFS (General Transit Feed Specification) a Google által kifejlesztett, teljesen nyilvános és ingyenes formátum, amely a földrajzi pozíciókat is felhasználó alkalmazásokba beépíthetővé teszi a közösségi közlekedés menetrendi adatbázisait.  
 
-### Időjárással kapcsolatos nyílt adatok  
+### Időjárás
 [Osrszágos Meterológiai Szolgálat Meteorológiai Adattár](https://odp.met.hu)  
 
 ### Kultúra  
