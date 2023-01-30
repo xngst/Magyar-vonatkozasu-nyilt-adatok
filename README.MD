@@ -35,7 +35,7 @@ A szó szerinti jegyzőkönyvbe az ülésen elhangzott minden nyilatkozatot, fel
 [Hungarian ChickenPox cases (UCI)](https://archive.ics.uci.edu/ml/datasets/Hungarian+Chickenpox+Cases)   
 [Börtönstatisztikai szemle (pdf)](https://bv.gov.hu/hu/bortonstatisztikai-szemle)  
 [Bűnügyi térkép](https://terkep.police.hu/portal/bunugyi) -Szabadon hozzáférhető interaktív térkép, naprakész adatokkal.
-A bűnügyi adatok - alapbeállítások mellett - az ún. Ponttérképen rajzolódnak ki. Ekkor az adatokat nagyobb halmazokba rendezi a rendszer: az egyes területekre jutó bűncselekmények összesített száma szerepel a kék körökbe foglaltan. Ezekre ráközelítve a nagy halmazok kisebb részhalmazokra válnak szét, és továbbra is összesített számokat mutatnak. Teljes nagyítás mellett - ami 100 méteres térképszelvényezést eredményez - az egyes bűncselekmények már nem halmazokban, hanem külön-külön, pontonként jelennek meg.  
+A bűnügyi adatok - alapbeállítások mellett - az ún. Ponttérképen rajzolódnak ki.  
 [Prevenciós bűnözés-statisztikai adattár](https://prestat.lechnerkozpont.hu/bunmegelozes/#/login)  -Csak ügyfélkapus bejelentkezés után használható. 
  Az alkalmazás elsődleges célja a rendőri szervek bűnmegelőzéshez kapcsolódó feladatai tervezésének, összehangolásának és végrehajtásának támogatása térinformatikai és egyéb elemzési eszközök biztosításával. Az alkalmazás különböző területi szinteken, meghatározott időintervallumra vonatkozóan lehetővé teszi a társadalmi, gazdasági és bűncselekményi adatok térképi és grafikonos megjelenítését.
 Az elsődleges felhasználói csoport mellett az alkalmazás publikus adatokat tartalmazó moduljai a lakossági felhasználók számára is hasznos funkciókat nyújtanak.  
