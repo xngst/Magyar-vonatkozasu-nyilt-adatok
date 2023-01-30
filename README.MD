@@ -30,6 +30,9 @@ Az elektronikus információszabadság oldalak létrehozásának célja, az info
 
 ### Időjárás
 [Osrszágos Meterológiai Szolgálat Meteorológiai Adattár](https://odp.met.hu)  
+Ingyenes, szabadon felhasználható meterológiai információk  
+Az Európai Uniós irányelveknek megfelelően, Magyarország Kormánya által biztosított források lehetővé tették az Országos Meteorológiai Szolgálat számára, hogy 2021. január 1-jétől megvalósítsa hazánkban a nyílt meteorológiai adatpolitikát. Ennek értelmében az OMSZ az odp.met.hu nyílt adatszerveren keresztül, a Meteorológiai Adattárban ingyenesen és szabadon felhasználhatóan rendelkezésre bocsátja megfigyelési és mérési adatait, az OMSZ által futtatott modellek előrejelzéseit, egyéb időjárási és éghajlati információit. Az adatok, információk folyamatosan frissülnek, miután befejeződtek a szükséges – az OMSZ minőségirányítási rendszere által előírt – adatellenőrzések, utófeldolgozások.  
+Az Adattárban rendelkezésre álló adatok és információk értelmezését, felhasználását leírások segítik. Az Adattár nem teljes, archív adatokkal történő feltöltése folyamatban van.  
 
 ### Kultúra  
 [Magyar Nemzeti Múzeum Digitális adatbázisok](https://mnm.hu/hu/digitalis-adatbazisok)  
