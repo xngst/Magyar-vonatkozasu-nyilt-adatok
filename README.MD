@@ -21,6 +21,10 @@ A szó szerinti jegyzőkönyvbe az ülésen elhangzott minden nyilatkozatot, fel
 [Közbeszerzéási értesítő](https://www.kozbeszerzes.hu/ertesito/)  
 [Országos Területfejlesztési és területrendezési Információs rendszer](https://www.teir.hu/)  Számos funkció regisztrációhoz kötött.
 
+### Városok
+[Budapest](https://einfoszab.budapest.hu/home)  
+Az elektronikus információszabadság oldalak létrehozásának célja, az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvényben, valamint az egyéb kötelező közzétételt előíró jogszabályban foglaltak maradéktalan végrehajtása. A törvényben meghatározott közfeladatot ellátó szerveknek a közvélemény pontos és gyors tájékoztatása érdekében a közérdekű adatoknak a törvényben meghatározott körét, közzétételi listában elektronikus úton bárki számára személyazonosítás és adatigénylési eljárás nélkül, folyamatosan és díjmentesen közzé kell tenni. Így a látogatók ezeken az oldalakon tájékoztatást kapnak a Fővárosi Önkormányzat és a Főpolgármesteri Hivatal szervezetét, működését, feladat-és hatáskörét, gazdálkodását stb. érintő információkról. Természetesen az oldalról letölthető közérdekű információk mellett továbbra is lehetőség van szóban, írásban vagy elektronikus úton közérdekű adatokat igényelni.  
+
 ### Közlekedés
 [BKK GTFS](https://bkk.hu/apps/gtfs/) - A GTFS (General Transit Feed Specification) a Google által kifejlesztett, teljesen nyilvános és ingyenes formátum, amely a földrajzi pozíciókat is felhasználó alkalmazásokba beépíthetővé teszi a közösségi közlekedés menetrendi adatbázisait.  
 
