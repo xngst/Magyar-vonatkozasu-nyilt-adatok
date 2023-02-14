@@ -59,20 +59,30 @@ TODO
 ### Nyílt adattal foglalkozó magyar honlapok és írások
 
 [Átlátszó](https://atlatszo.hu/)  
+
 [K-Monitor](https://k-monitor.hu/fooldal) - A K-Monitor Iroda 2007 óta küzd a közpénzek átlátható felhasználásáért és a korrupció visszaszorításáért. Civil szervezetünk olyan politikai, gazdasági és társadalmi környezetet megteremtéséért dolgozik, ahol az állampolgárok elutasítják, a hatóságok pedig hatékonyan feltárják és szankcionálják a korrupciót.  
+
 [Eötvös Károly Intézet](http://www.ekint.org/tevekenyseg/az-allam-atlathatosaga-informacioszabadsag)  
+
 [Magyary Zoltán E-közigazgatástudományi Egyesület](https://www.magyary.hu/category/digitalis-koz-igazgatas/)  
+
 [Opendata.hu](http://opendata.hu/)  - Az opendata.hu egy ingyenes és nyilvános magyar adatkatalógus. Az oldalt önkéntesek és civil szervezetek hozták létre azzal a céllal, hogy megteremtsék az első magyar nyílt adatokat, adatbázisokat gyűjtő weblapot. Az oldalra szabadon feltölthetőek, rendszerezhetőek szerzői jogvédelem alatt nem álló, nyilvános, illetve közérdekű adatok.  
 
 [Nemzeti Hírközlési és Informatikai Tanács (NHIT) Szakértői Tanácsadó Testülete: Fehér Könyv](http://www.szantoestarsa.hu/uj/templates/dokumentumok/269_10-42-34.pdf)  
 A közadatok újrahasznosítását elősegítő  egységes  kormányzati  adatpolitika megalapozásának irányvonalai.  
+
 [NAIH Információszabadsággal kapcsolatos tájékoztatók, közlemények](https://www.naih.hu/dontesek-informacioszabadsag-tajekoztatok-kozlemenyek)  - Nemzeti Adatvédelmi és Információszabadság Hatóság  
+
 [Nyílt és kapcsolt adatok](https://tudomany.idea.unideb.hu/hu/node/222)  - Rövid ismertető a kapcsolt adatokról  
+
 [Nyílt Adatok kézikönyv](http://www.w3c.hu/forditasok/Open-Data-Handbook/OpenDataHandbook_hu.pdf)  - Open Knowledge Foundation által kiadott kézikönyv. A nyílt adatok jogi, szociális és technikai aspektusainak ismertetésére szolgál.  Különösen azoknak készült, akik adatok nyílttá tevését tűzték célul. Szót ejt a nyílt adatok mit, miért és hogyanjáról–mit jelent a nyíltság, miért válasszuk a nyílt adatok útját, és hogyan tegyünk"nyílttá"adatokat.  
 
+[Közadatok és nyilvános adatbázisok: a hozzáférés kérdései](https://folyoiratok.oh.gov.hu/educatio/kozadatok-es-nyilvanos-adatbazisok-a-hozzaferes-kerdesei)  
+Közhelyszerű megállapítás, hogy a közinformációkhoz való hozzáférés a demokratikus jogállamok alkotmányos alapjoga, a demokrácia egyik alappillére, az uralkodó politikai rendszerek és szövetségeseik elszámoltathatóságának sarkalatos eszköze, számos további információs jog érvényesíthetőségének előfeltétele, a nyilvánosság záloga, a tájékozott döntéshozatal megalapozója, a közügyekben való állampolgári részvétel serkentője, a szabad média táptalaja – és még sorolhatnánk. Talán legemelkedettebb, és egyben szakszerű elnevezése az információszabadság, angol elnevezéssel Freedom of Information (FOI), gyakran így, nagybetűvel írva. Röviden azt jelenti, hogy mindenki szabadon hozzáférhet a közszféra információihoz, és ezt a jogát csak szűk körben, törvény korlátozhatja.  
 
 ### Kapcsolódó törvények
-[2011. évi CXII. törvényaz információs önrendelkezési jogról és azinformációszabadságról](https://pak.elte.hu/media/9e/4e/e36590c5dddfb763f133822df76d26822c31b93bea0d811bff8ba88aa100/2011.%20%C3%A9vi%20CXII.%20t%C3%B6rv%C3%A9ny%20az%20inform%C3%A1ci%C3%B3s%20%C3%B6nrendelkez%C3%A9si%20jogr%C3%B3l%20%C3%A9s%20az%20inform%C3%A1ci%C3%B3szabads%C3%A1gr%C3%B3l.pdf) -PDF Frissítve: 2019. március 21. 16:27Hatály: 2019.I.1.  
+[2011. évi CXII. törvényaz információs önrendelkezési jogról és azinformációszabadságról](https://pak.elte.hu/media/9e/4e/e36590c5dddfb763f133822df76d26822c31b93bea0d811bff8ba88aa100/2011.%20%C3%A9vi%20CXII.%20t%C3%B6rv%C3%A9ny%20az%20inform%C3%A1ci%C3%B3s%20%C3%B6nrendelkez%C3%A9si%20jogr%C3%B3l%20%C3%A9s%20az%20inform%C3%A1ci%C3%B3szabads%C3%A1gr%C3%B3l.pdf) -PDF Frissítve: 2019. március 21. 16:27Hatály: 2019.I.1. 
+
 [2003. évi XXIV. törvény
 a közpénzek felhasználásával, a köztulajdon használatának nyilvánosságával, átláthatóbbá tételével és ellenőrzésének bővítésével összefüggő egyes törvények módosításáról](https://mkogy.jogtar.hu/jogszabaly?docid=a0300024.TV) -"Üvegzseb" törvény Időállapot: közlönyállapot (2003.IV.25.)  
 Kivonatolt összefoglaló a K Monitoron: https://k-monitor.hu/node/5774  
