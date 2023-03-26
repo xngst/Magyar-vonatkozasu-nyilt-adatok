@@ -18,8 +18,9 @@ A szó szerinti jegyzőkönyvbe az ülésen elhangzott minden nyilatkozatot, fel
 [Nemzeti jogszabálytár](https://njt.hu/)  
 [kormányportál dokumentumtár](https://kormany.hu/dokumentumtar)  
 [Közbeszerzési hatóság](https://www.kozbeszerzes.hu/)  
-[Közbeszerzéási értesítő](https://www.kozbeszerzes.hu/ertesito/)  
-[Országos Területfejlesztési és területrendezési Információs rendszer](https://www.teir.hu/)  Számos funkció regisztrációhoz kötött.
+[Közbeszerzési értesítő](https://www.kozbeszerzes.hu/ertesito/)  
+[Országos Területfejlesztési és területrendezési Információs rendszer](https://www.teir.hu/)  Számos funkció regisztrációhoz kötött.  
+[Elektronikus Közbeszerzési Rendszer](https://ekr.gov.hu/ekr-szerzodestar/hu/szerzodesLista)  EKR közzétett szerződések  
 
 ### Városok
 [Budapest](https://einfoszab.budapest.hu/home)  
