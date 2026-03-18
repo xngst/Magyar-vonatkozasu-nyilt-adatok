@@ -24,6 +24,10 @@
 
 -----
 
+### Kutatási korpuszok
+
+  * **[ELTE TTK](https://cap.tk.elte.hu/adatbazisok)** - A Hungarian Comparative Agendas Project (CAP)  adatbáziai három nagyobb csoportba sorolhatóak. Kutatásunk kiterjed az Országgyűlés, a kormány, valamint a média és a közvélemény napirendjére.
+
 ### Városok és Helyi Önkormányzatok
 
   * **[Budapest Informatikai Nyíltsága (Budapest Open Data)](https://www.google.com/search?q=https://einfoszab.budapest.hu/kozadat/adatkeszletek)** – A főváros dedikált nyílt adat oldala (adatkészletek, költségvetés).
