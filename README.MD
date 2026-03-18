@@ -26,7 +26,7 @@
 
 ### Kutatási korpuszok
 
-  * **[ELTE TTK](https://cap.tk.elte.hu/adatbazisok)** - A Hungarian Comparative Agendas Project (CAP)  adatbáziai három nagyobb csoportba sorolhatóak. Kutatásunk kiterjed az Országgyűlés, a kormány, valamint a média és a közvélemény napirendjére.
+  * **[ELTE Társadalomtudományi Kutatóközpont](https://cap.tk.elte.hu/adatbazisok)** - A Hungarian Comparative Agendas Project (CAP)  adatbáziai három nagyobb csoportba sorolhatóak. Kutatásunk kiterjed az Országgyűlés, a kormány, valamint a média és a közvélemény napirendjére.
 
 ### Városok és Helyi Önkormányzatok
 
