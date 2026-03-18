@@ -62,7 +62,7 @@
 
 -----
 
-### Adatigénylések (Pótolva)
+### Adatigénylések
 
 Ha egy adat nem érhető el nyílt formában, bárki igényelheti:
 
