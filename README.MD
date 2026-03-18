@@ -9,6 +9,7 @@ forrás: http://www.w3c.hu/forditasok/Open-Data-Handbook/OpenDataHandbook_hu.pdf
 
 ### Kormányzati nyílt adatok
 
+[Közadat portál](https://kozadatportal.hu/)  
 [Parlament Országgyűlési napló](https://www.parlament.hu/orszaggyulesi-naplo)  -Az Országgyűlés nyilvános ülésén elhangzottakról szó szerinti jegyzőkönyvet kell vezetni, amelynek elkészítéséről a házelnök gondoskodik. A jegyzőkönyv jegyzők által hitelesített példányát – a határozati házszabályban meghatározott mellékletekkel együtt – irattárban kell elhelyezni, az Országgyűlési Naplót az Országgyűlési Könyvtárban is.
 A szó szerinti jegyzőkönyvbe az ülésen elhangzott minden nyilatkozatot, felszólalást és közbeszólást – az élőbeszéd ülésen nem észrevételezett hibáinak javításával, a későbbi beazonosíthatóság érdekében szöveghűen - fel kell venni, és abban fel kell tűntetni a tetszés és rosszallás hangos kifejezését, valamint egyéb történéseket is.  
 [Közadat Kereső](https://kozadat.hu/kereso/) Az oldal jelenleg csak linkek gyűjteménye, egyáltalán nem felhasználóbarát és még a minimális nyílt adat kritériumokat is alulról súrolja.  
@@ -22,6 +23,7 @@ A szó szerinti jegyzőkönyvbe az ülésen elhangzott minden nyilatkozatot, fel
 [Országos Területfejlesztési és területrendezési Információs rendszer](https://www.teir.hu/)  Számos funkció regisztrációhoz kötött.  
 [Elektronikus Közbeszerzési Rendszer](https://ekr.gov.hu/ekr-szerzodestar/hu/szerzodesLista)  EKR közzétett szerződések  
 
+
 ### Városok
 [Budapest](https://einfoszab.budapest.hu/home)  
 Az elektronikus információszabadság oldalak létrehozásának célja, az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvényben, valamint az egyéb kötelező közzétételt előíró jogszabályban foglaltak maradéktalan végrehajtása. A törvényben meghatározott közfeladatot ellátó szerveknek a közvélemény pontos és gyors tájékoztatása érdekében a közérdekű adatoknak a törvényben meghatározott körét, közzétételi listában elektronikus úton bárki számára személyazonosítás és adatigénylési eljárás nélkül, folyamatosan és díjmentesen közzé kell tenni. Így a látogatók ezeken az oldalakon tájékoztatást kapnak a Fővárosi Önkormányzat és a Főpolgármesteri Hivatal szervezetét, működését, feladat-és hatáskörét, gazdálkodását stb. érintő információkról. Természetesen az oldalról letölthető közérdekű információk mellett továbbra is lehetőség van szóban, írásban vagy elektronikus úton közérdekű adatokat igényelni.  
@@ -32,6 +34,8 @@ Honlapunk létrehozásánál kettős cél vezérelt bennünket: egyrészt a BAMO
 
 ### Közlekedés
 [BKK GTFS](https://bkk.hu/apps/gtfs/) - A GTFS (General Transit Feed Specification) a Google által kifejlesztett, teljesen nyilvános és ingyenes formátum, amely a földrajzi pozíciókat is felhasználó alkalmazásokba beépíthetővé teszi a közösségi közlekedés menetrendi adatbázisait.  
+[BKK Adatok, diagrammok](https://bkk.hu/rolunk/forgalmi-adatok-diagramok/)  
+
 
 ### Időjárás
 [Osrszágos Meterológiai Szolgálat Meteorológiai Adattár](https://odp.met.hu/tree.html)  
@@ -44,6 +48,7 @@ Az Adattárban rendelkezésre álló adatok és információk értelmezését, f
 
 ### Általános Statisztikai adatok  
 [Központi Statisztikai Hivatal](http://www.ksh.hu/)  
+[KSH API](https://data.ksh.hu/)  
 [Hungarian ChickenPox cases (UCI)](https://archive.ics.uci.edu/ml/datasets/Hungarian+Chickenpox+Cases)   
 [Börtönstatisztikai szemle (pdf)](https://bv.gov.hu/hu/bortonstatisztikai-szemle)  
 [Bűnügyi térkép](https://terkep.police.hu/portal/bunugyi) -Szabadon hozzáférhető interaktív térkép, naprakész adatokkal.
